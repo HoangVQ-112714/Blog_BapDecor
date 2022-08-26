@@ -48,5 +48,3 @@ sites/simpletest
 .env
 .lando.yml
 /.lando/
-
-/sites/default/default.settings.php
